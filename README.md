@@ -1,2 +1,13 @@
 # quarkus-form-interceptor
-Project to reproduce a weird behavior with form data and ReaderInterceptor
+
+Project to reproduce a weird behavior with form data and ReaderInterceptor.
+
+See X
+
+## How to run
+
+```sh
+./mvnw test
+```
+
+Tests `testLoginUsingBeanParam` and `testLoginUsingFormParam` fail, test `testLoginUsingMultivaluedMap` succeeds.
