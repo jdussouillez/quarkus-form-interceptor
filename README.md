@@ -2,7 +2,7 @@
 
 Project to reproduce a weird behavior with form data and ReaderInterceptor.
 
-See X
+See https://github.com/quarkusio/quarkus/issues/47939
 
 ## How to run
 
